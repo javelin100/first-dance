@@ -1,2 +1,3 @@
 # first-dance
-print("hello world")
+이 칸(redame)은 동료들에게 이 레포지토리?가 무슨 기능, 역할을 맞고있는지
+설명하는 칸이다.
